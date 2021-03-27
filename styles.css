@@ -1,15 +1,30 @@
 body{
-    background-color:#ff7a00
-    ;
+    background-color:#ff7a00;
+    margin: auto 0;
+    color: white;
    
 }
 
 #survey-form{
     background-color: #864000 ;
+    text-align: center;
+    margin: auto;
+}
+
+#description {
+    text-align: center;
+    margin: auto;
+    padding: 50px auto;
+    display: block;
 }
 
 #title{
     text-align: center;
     margin: auto;
 
+}
+
+#input-number{
+    width: 11%;
+    margin-left:150px ;
 }
